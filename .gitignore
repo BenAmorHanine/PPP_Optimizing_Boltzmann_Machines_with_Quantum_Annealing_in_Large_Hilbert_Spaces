@@ -1,0 +1,2 @@
+# Ignoring all data in src/data/*.csv
+/data/*.csv
